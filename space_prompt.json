@@ -1,0 +1,11 @@
+{
+  "template": "Imagine a futuristic space scene with <number> <adjective> <celestial_objects> and a <adjective> spacecraft. Apply an <artistic_style> to emphasize <specific_style_element> and convey a sense of <emotion>.",
+  "candidates": {
+    "<number>": ["three", "five", "seven", "nine", "twelve", "twenty", "thirty", "fifty", "hundred", "countless"],
+    "<adjective>": ["distant", "glowing", "celestial", "shimmering", "orbiting", "exploding", "dazzling", "ethereal", "cosmic", "interstellar"],
+    "<celestial_objects>": ["planets", "moons", "nebulae", "stars", "asteroids", "comets", "galaxies", "quasars", "black holes", "space stations"],
+    "<artistic_style>": ["space art", "futuristic", "science fiction", "cosmic surrealism", "space opera", "stellar expressionism", "alien impressionism", "techno-futurism", "astronomical romanticism", "intergalactic symbolism"],
+    "<specific_style_element>": ["scale", "color palette", "atmosphere", "depth", "otherworldliness", "luminosity", "movement", "spatial composition", "cosmic energy", "timelessness"],
+    "<emotion>": ["awe", "wonder", "isolation", "exploration", "adventure", "infinity", "loneliness", "vastness", "euphoria", "transcendence"]
+  }
+}
