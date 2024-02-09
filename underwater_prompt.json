@@ -1,0 +1,12 @@
+{
+  "template": "Illustrate an underwater scene with <number> <adjective> <marine_life> and a <adjective> <underwater_feature>. Apply an <artistic_style> to capture the <specific_style_element> and evoke a sense of <emotion>.",
+  "candidates": {
+    "<number>": ["three", "five", "seven", "nine", "twelve", "twenty", "thirty", "fifty", "hundred", "countless"],
+    "<adjective>": ["colorful", "graceful", "majestic", "mysterious", "vibrant", "tranquil", "glowing", "fantastic", "exotic", "ethereal"],
+    "<marine_life>": ["fish", "corals", "seahorses", "jellyfish", "sharks", "dolphins", "octopuses", "seals", "whales", "turtles"],
+    "<underwater_feature>": ["coral reef", "kelp forest", "underwater cave", "shipwreck", "deep sea trench", "underwater volcano", "seamount", "marine canyon", "underwater arch", "hydrothermal vent"],
+    "<artistic_style>": ["realistic", "impressionistic", "surreal", "abstract", "photorealistic", "hyperrealistic", "minimalistic", "stylized", "cartoonish", "ethereal"],
+    "<specific_style_element>": ["lighting", "color palette", "depth", "perspective", "texture", "scale", "composition", "mood", "magic", "spirituality"],
+    "<emotion>": ["wonder", "awe", "serenity", "fascination", "adventure", "mystery", "tranquility", "excitement", "curiosity", "peace"]
+  }
+}
