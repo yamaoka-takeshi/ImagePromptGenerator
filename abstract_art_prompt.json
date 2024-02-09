@@ -1,0 +1,11 @@
+{
+  "template": "Create an abstract artwork that explores the concept of <concept>. The color palette should include <color1>, <color2>, and <color3>. Use an <artistic_style> style with a focus on <specific_style_element> for a visually striking piece.",
+  "candidates": {
+    "<concept>": ["emotion", "chaos", "harmony", "transformation", "infinity", "movement", "energy", "balance", "contrast", "serenity"],
+    "<color1>": ["red", "blue", "yellow", "green", "purple", "orange", "turquoise", "pink", "lime", "indigo"],
+    "<color2>": ["orange", "turquoise", "pink", "lime", "indigo", "gold", "silver", "bronze", "copper", "platinum"],
+    "<color3>": ["gold", "silver", "bronze", "copper", "platinum", "crimson", "emerald", "azure", "violet", "amber"],
+    "<artistic_style>": ["abstract expressionism", "minimalism", "geometric abstraction", "post-painterly abstraction", "lyrical abstraction", "cubism", "fauvism", "suprematism", "surrealism", "op art"],
+    "<specific_style_element>": ["texture", "form", "composition", "contrast", "energy", "line", "shape", "space", "pattern", "abstraction"]
+  }
+}
