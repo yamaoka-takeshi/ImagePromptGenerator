@@ -1,0 +1,11 @@
+{
+  "template": "Illustrate a scene from <historical_period> featuring <adjective> <architecture> and <adjective> <nature_element>. Apply an <artistic_style> with attention to <specific_style_element> for an evocative depiction.",
+  "candidates": {
+    "<historical_period>": ["medieval", "renaissance", "victorian", "ancient", "baroque", "greek", "roman", "gothic", "ottoman", "elizabethan"],
+    "<adjective>": ["grand", "quaint", "serene", "majestic", "charming", "picturesque", "historic", "ornate", "ancient", "rustic"],
+    "<architecture>": ["castles", "cathedrals", "palaces", "colosseum", "temples", "fortresses", "manors", "ruins", "chapels", "monuments"],
+    "<nature_element>": ["forests", "rivers", "mountains", "gardens", "valleys", "meadows", "waterfalls", "caves", "islands", "plains"],
+    "<artistic_style>": ["historical illustration", "romanticism", "academic art", "pre-raphaelite", "neoclassicism", "impressionism", "barbizon school", "hudson river school", "symbolism", "arts and crafts movement"],
+    "<specific_style_element>": ["detail", "atmosphere", "historical accuracy", "mood", "lighting", "scale", "color palette", "perspective", "landscape composition", "human presence"]
+  }
+}
