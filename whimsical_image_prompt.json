@@ -1,0 +1,12 @@
+{
+  "template": "Create a whimsical scene with <number> <adjective> <objects> floating in a <adjective> atmosphere. Apply an <artistic_style> to enhance the <specific_style_element> and evoke a feeling of <emotion>.",
+  "candidates": {
+    "<number>": ["three", "five", "seven", "nine", "twelve", "twenty", "thirty", "fifty", "hundred", "countless"],
+    "<adjective>": ["playful", "quirky", "eccentric", "dreamlike", "fantastical", "magical", "enchanting", "surreal", "whimsical", "fanciful"],
+    "<objects>": ["balloons", "umbrellas", "teacups", "books", "clocks", "chandeliers", "clouds", "birds", "butterflies", "kites"],
+    "<atmosphere>": ["pastel sky", "moonlit night", "starry sky", "sunset horizon", "misty morning", "twilight", "rainbow sky", "cloudscape", "aurora borealis", "whimsical garden"],
+    "<artistic_style>": ["storybook illustration", "cartoonish", "fantasy realism", "surrealism", "whimsical impressionism", "magical romanticism", "fairy tale art", "dreamscape", "vibrant surrealism", "enchanted surrealism"],
+    "<specific_style_element>": ["color palette", "texture", "lighting", "composition", "scale", "whimsy", "playfulness", "imagination", "fantasy", "magic"],
+    "<emotion>": ["joy", "wonder", "amazement", "childlike delight", "whimsy", "magic", "nostalgia", "happiness", "playfulness", "enchantment"]
+  }
+}
