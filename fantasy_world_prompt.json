@@ -1,0 +1,13 @@
+{
+  "template": "Imagine a fantastical world inhabited by <number> <adjective> <fantasy_creatures> and ruled by a <adjective> <ruler>. Describe the <adjective> landscape and apply an <artistic_style> to highlight the <specific_style_element> and evoke a feeling of <emotion>.",
+  "candidates": {
+    "<number>": ["three", "five", "seven", "nine", "twelve", "twenty", "thirty", "fifty", "hundred", "countless"],
+    "<adjective>": ["magical", "enchanted", "mystical", "whimsical", "otherworldly", "bewitched", "mythical", "spellbinding", "fantastical", "unearthly"],
+    "<fantasy_creatures>": ["elves", "fairies", "dragons", "unicorns", "goblins", "dwarves", "mermaids", "centaurs", "griffins", "phoenixes"],
+    "<ruler>": ["king", "queen", "emperor", "empress", "sorcerer", "sorceress", "wizard", "witch", "fae monarch", "lord"],
+    "<landscape>": ["enchanted forests", "misty mountains", "crystal caves", "ancient ruins", "magic kingdoms", "fairy glens", "shadowy swamps", "mythical islands", "eternal deserts", "celestial skies"],
+    "<artistic_style>": ["fantasy realism", "storybook illustration", "mythical impressionism", "fairy tale art", "magical romanticism", "legendary expressionism", "enchanted surrealism", "ethereal fantasy", "mystical symbolism", "fantasy cubism"],
+    "<specific_style_element>": ["mood", "color palette", "texture", "lighting", "detail", "composition", "scale", "atmosphere", "imagination", "wonder"],
+    "<emotion>": ["wonder", "awe", "adventure", "magic", "hope", "mystery", "enchantment", "joy", "curiosity", "fascination"]
+  }
+}
