@@ -1,0 +1,11 @@
+{
+  "template": "Create a painting depicting <adjective> <scene> with emphasis on <specific_aspect>. Use <medium> on <surface> to convey <emotion>.",
+  "candidates": {
+    "<adjective>": ["vibrant", "serene", "dynamic", "ethereal", "captivating", "nostalgic", "mystical", "evocative", "whimsical", "intriguing"],
+    "<scene>": ["a serene landscape", "a bustling cityscape", "a tranquil seascape", "a dramatic sunset", "a vibrant street scene", "an enchanting forest", "a mysterious alleyway", "a peaceful countryside", "an exotic marketplace", "a majestic mountain range"],
+    "<specific_aspect>": ["light and shadow", "color harmony", "perspective", "texture", "composition", "movement", "contrast", "atmosphere", "detail", "emotion"],
+    "<medium>": ["oil paint", "watercolor", "acrylics", "pastels", "ink", "charcoal", "mixed media", "digital painting", "gouache", "tempera"],
+    "<surface>": ["canvas", "wood panel", "paper", "board", "fabric", "metal", "glass", "wall", "stone", "ceramic"],
+    "<emotion>": ["peace", "excitement", "wonder", "melancholy", "joy", "awe", "nostalgia", "serenity", "mystery", "inspiration"]
+  }
+}
