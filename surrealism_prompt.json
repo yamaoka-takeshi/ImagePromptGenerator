@@ -1,0 +1,10 @@
+{
+  "template": "Create a surrealistic artwork featuring <adjective> <objects> in <location>. Emphasize <specific_aspect> to evoke a sense of <emotion>.",
+  "candidates": {
+    "<adjective>": ["dreamlike", "absurd", "whimsical", "unsettling", "fantastical", "otherworldly", "bizarre", "eccentric", "mind-bending", "surreal"],
+    "<objects>": ["melting clocks", "floating eyes", "giant teacups", "umbrellas raining fish", "flying elephants", "doorways to nowhere", "dancing shadows", "inverted landscapes", "flying whales", "morphing faces"],
+    "<location>": ["an empty desert", "a foggy forest", "an upside-down room", "a labyrinthine city", "an infinite staircase", "a surreal beach", "a cosmic void", "a distorted mirror", "a floating island", "an alien landscape"],
+    "<specific_aspect>": ["scale distortion", "metamorphosis", "unusual juxtapositions", "repeated motifs", "fragmentation", "levitation", "dismemberment", "illusion", "biomorphic forms", "gravity defiance"],
+    "<emotion>": ["wonder", "confusion", "awe", "uncertainty", "intrigue", "disorientation", "fascination", "surreality", "bewilderment", "ambiguity"]
+  }
+}
