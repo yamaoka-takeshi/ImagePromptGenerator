@@ -1,0 +1,20 @@
+{
+  "template": "Visualize a futuristic scene where explorers navigate a <adjective1> <location> of <information_type>. Picture their <adjective2> <vehicle> traversing through <feature> of <data_type>, with <number> of holographic <creature> swimming around. In the distance, towering <adjective3> structures of <data_facility> can be seen, emitting <color1> and <color2> lights, while <adjective4> <drones> buzz overhead, collecting data for their mission.",
+  "candidates": {
+    "<adjective1>": ["vast", "dynamic", "immersive", "ever-changing", "unexplored"],
+    "<location>": ["sea", "ocean", "abyss", "realm", "domain"],
+    "<information_type>": ["digital information", "data streams", "cyberspace", "virtual reality", "information highway"],
+    "<adjective2>": ["high-tech", "sleek", "advanced", "cutting-edge", "futuristic"],
+    "<vehicle>": ["submarine", "craft", "vessel", "ship", "explorer"],
+    "<feature>": ["waves", "currents", "streams", "torrents", "flows"],
+    "<data_type>": ["binary code", "digital signals", "data packets", "bits and bytes", "information waves"],
+    "<number>": ["dozens", "hundreds", "thousands", "countless", "myriad"],
+    "<creature>": ["fish", "dolphins", "sharks", "jellyfish", "whales"],
+    "<adjective3>": ["towering", "massive", "monolithic", "gigantic", "imposing"],
+    "<data_facility>": ["data servers", "information hubs", "data centers", "server farms", "network facilities"],
+    "<color1>": ["blue", "green", "purple", "teal", "orange"],
+    "<color2>": ["red", "yellow", "pink", "white", "silver"],
+    "<adjective4>": ["busy", "efficient", "diligent", "industrious", "productive"],
+    "<drones>": ["drones", "UAVs", "quadcopters", "flying robots", "aerial vehicles"]
+  }
+}
